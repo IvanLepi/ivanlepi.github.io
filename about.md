@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I enjoy working on challenging tasks as that feeling of solving a problems is quite something.
+I enjoy working on challenging tasks as that feeling of solving a problem is quite something.
 
 ### More Information
 
