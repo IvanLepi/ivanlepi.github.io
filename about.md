@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I enjoy working on challenging tasks as that feeling of solving a problems is quite something.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+When not in front of the computer screen I am out running with the animals.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@ivanlepi](https://twitter.com/lepiandroid)
